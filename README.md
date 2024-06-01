@@ -39,7 +39,7 @@ Safety Helmet Detection System
 Developed an efficient system to identify and ensure the usage of safety helmets within an industrial setting.
 Enhanced workplace safety by showcasing strong problem-solving skills and the ability to implement real-world solutions.
 
-##Educational background
+## Educational background
 
 M.Sc Data Science
 University of Hertfordshire | 2024 - Current
