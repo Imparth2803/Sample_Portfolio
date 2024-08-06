@@ -5,21 +5,21 @@ I am a computer science engineering graduate with a specialization in intelligen
 
 ## Projects
 
-Sudoku Solver
+### Sudoku Solver
 "Sudoku Solver" could solve a Sudoku Puzzle from its image as input.
- Led preprocessing steps on image dataset. To reduce noise in image dataset used image denoising filters.
+Led preprocessing steps on image dataset. To reduce noise in image dataset used image denoising filters.
 Input image is transformed into binary image using thresholding and contours which is used to read sudoku from binary image.
 Imported model using Keras to predict a solution.
 Technologies: Python,PyCharm CE, OpenCV, Keras, Tensorflow, Numpy, Pandas
 
-Chess Vision
+### Chess Vision
 This project was about recognising a chess board and its pieces from an image and generating the FEN code for that image.
 I was responsible for selection of Dataset and led preprocessing part of the project.
 OpenCV library was used for image segmentation and feature extraction.
 Utilized computer vision techniques to extract and recognize chess pieces from images.
 Technologies: Python, OpenCV, Keras, Tensorflow, Numpy, Matplotlib.
 
-DEM EXTRACTION FROM SATELLITE IMAGES
+### DEM EXTRACTION FROM SATELLITE IMAGES
 This project is about the extraction of the Digital Elevation Model (DEM) from a satellite images to get higher accuracy.
 Used U-net model for DEM extraction and semantic segmentation of satellite image.
 Images for dataset were taken from Google earth engine. Images were of 512x512 pixel size but were rescaled to 160x160 pixel size for computational reason during preprocessing.
@@ -74,7 +74,6 @@ Libraries and Framework:- Tensorflow ,PyTorch ,Pandas ,Numpy , Scikit ,Matplotli
 
 ## Soft skills:-
 Problem solving, Critical thinking, Teamwork, multitasking and attention to detail
-Skills and Proficiencies
 
 ## Publications
 Parth Tawde, High-Resolution Satellite Imagery Analysis for Terrain and Surface Data Extraction: Techniques and Applications, 2023
